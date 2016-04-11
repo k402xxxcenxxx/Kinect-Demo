@@ -1,0 +1,15 @@
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEditor.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEngine.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEngine.Networking.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEngine.UI.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEngine.xml
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEngine.UI.xml
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEngine.Networking.xml
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\bin\x64\Debug\UnityEditor.xml
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\obj\x64\Debug\Kinect-Demo.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\obj\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\KEN\Documents\GitHub\Kinect-Demo\obj\x64\Debug\Assembly-CSharp-firstpass.pdb
